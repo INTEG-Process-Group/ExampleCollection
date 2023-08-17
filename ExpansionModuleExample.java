@@ -22,10 +22,10 @@ public class ExpansionModuleExample {
             if (Long.toHexString(devices[i]).endsWith("fd")) {
                 voltModule++;
             }
-            if (Long.toHexString(devices[i]).endsWith("fb")) {
+            if (Long.toHexString(devices[i]).endsWith("28")) {
                 tempProbe++;
             }
-            if (Long.toHexString(devices[i]).endsWith("28")) {
+            if (Long.toHexString(devices[i]).endsWith("fb")) {
                 fourRout++;
             }
         }
