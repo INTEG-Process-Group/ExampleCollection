@@ -1,3 +1,5 @@
+package helloworld;
+
 public class JavaApplication300 {
 
     /**
