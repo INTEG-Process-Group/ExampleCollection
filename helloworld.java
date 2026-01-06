@@ -1,6 +1,6 @@
-package helloworld;
+Worldpackage helloworld;
 
-public class JavaApplication300 {
+public class Helloworld {
 
     /**
      * @param args the command line arguments
